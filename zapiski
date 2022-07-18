@@ -13,4 +13,12 @@ ideqta e da se polzva za da moje da se definira na novo dadena promenliva ili co
 #ifndef
 #elif
 #endif
+gcc  ..... -D name=value;slagane na promenliva s stoinost
+#pragma-pra6tane na nastroiki kym kompilatora
+#error-message generirane na ry4na gre6ka
+#warning -predoprejdenie
+printf("%s",__FILE__);-ime na file
+printf("%s",__TIME__); - vreme
+printf("%s",__TIMESTAMP__); - posledna kompilaciq
+printf("%d",__STDC__);- 1 ako podyrja standartnoto c
 

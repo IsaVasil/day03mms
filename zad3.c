@@ -1,11 +1,11 @@
 #include <stdio.h>
-#define os 1
+//#define os 1
 #define debug
 int main(){
 
     #ifdef debug
 printf("dasdfs");
-#endif
+  #endif
     #if os==1
     printf("hello");
 
@@ -13,7 +13,7 @@ printf("dasdfs");
 
     printf("bye");
 
-
+ #endif
     #if 1
    
     printf("hello");
