@@ -21,4 +21,4 @@ printf("%s",__FILE__);-ime na file
 printf("%s",__TIME__); - vreme
 printf("%s",__TIMESTAMP__); - posledna kompilaciq
 printf("%d",__STDC__);- 1 ako podyrja standartnoto c
-
+printf("%d",__LINE__); - reda vyv file
