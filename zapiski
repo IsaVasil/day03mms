@@ -1,0 +1,16 @@
+PREDPROCESOR
+gcc -E
+cpp file.c
+#include-kopira
+#define-substituciq
+#define PI 3.14
+#include <stdbool.h>
+#undef -obratnoto na define
+ideqta e da se polzva za da moje da se definira na novo dadena promenliva ili cod
+#if
+#else
+#ifdef
+#ifndef
+#elif
+#endif
+
